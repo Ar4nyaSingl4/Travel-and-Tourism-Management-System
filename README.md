@@ -22,13 +22,10 @@ The **Travel and Tourism Management System** is a desktop-based application deve
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
+|------------|---------|
 | Java | Core Programming Language |
 | Java Swing | Graphical User Interface (GUI) |
 | JDBC | Database Connectivity |
 | MySQL | Database Management System |
 | NetBeans IDE | Development Environment |
 | JDK 17 | Java Development Kit |
-
-## 👨‍💻 Author
-
-**Aranya Singla**
